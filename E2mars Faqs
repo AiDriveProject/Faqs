@@ -1,0 +1,2153 @@
+[
+    {
+        "question": "How do I contact E2mars customer service?",
+        "answer": "You can contact E2mars customer service through the in-app support section or by emailing support@e2mars.com."
+    },
+    {
+        "question": "What is the E2mars contact number?",
+        "answer": "You can reach E2mars at +1-800-E2MARS or through the in-app contact form."
+    },
+    {
+        "question": "How do I report a problem with my trip?",
+        "answer": "In the app, go to the Help section, select the trip in question, and report your issue."
+    },
+    {
+        "question": "Can I chat with a support agent?",
+        "answer": "Yes, live chat is available in the app's support section."
+    },
+    {
+        "question": "How can I give feedback on my experience?",
+        "answer": "You can rate your trip and leave feedback directly in the app after completing a ride."
+    },
+    {
+        "question": "Is there an emergency contact number?",
+        "answer": "Yes, in case of emergency, contact our support team through the app or dial local emergency services."
+    },
+    {
+        "question": "How do I get a refund for a ride?",
+        "answer": "You can request a refund by contacting customer service and explaining your issue."
+    },
+    {
+        "question": "How can I update my contact information?",
+        "answer": "You can update your phone number and email in the app under the account settings section."
+    },
+    {
+        "question": "How do I delete my E2mars account?",
+        "answer": "You can request to delete your account through the app under account settings or by contacting customer support."
+    },
+    {
+        "question": "What do I do if I forget my login information?",
+        "answer": "Use the \"Forgot Password\" option on the login page to reset your password or recover your account."
+    },
+    {
+        "question": "What payment methods does E2mars accept?",
+        "answer": "E2mars accepts credit/debit cards, mobile payments, and in-app wallets."
+    },
+    {
+        "question": "How do I add a payment method?",
+        "answer": "Go to the payment settings in the app and select \"Add Payment Method.\""
+    },
+    {
+        "question": "Can I use cash to pay for my ride?",
+        "answer": "No, E2mars currently only accepts digital payments through the app."
+    },
+    {
+        "question": "How do I split the payment with someone else?",
+        "answer": "Payment splitting is not currently available, but you can pay for multiple riders through the app."
+    },
+    {
+        "question": "How do I check my payment history?",
+        "answer": "You can view your payment history under the \"Transaction\" or \"History\" section of the app."
+    },
+    {
+        "question": "What happens if my payment fails?",
+        "answer": "If a payment fails, you will be notified and can try again or update your payment method."
+    },
+    {
+        "question": "Can I save multiple payment methods?",
+        "answer": "Yes, you can save multiple payment methods in the app for future use."
+    },
+    {
+        "question": "How do I remove a payment method?",
+        "answer": "Go to payment settings, select the method you want to remove, and tap Delete."
+    },
+    {
+        "question": "Can I receive receipts for my payments?",
+        "answer": "Yes, digital receipts are sent via email and can also be accessed in the app."
+    },
+    {
+        "question": "How do I get a refund for a canceled trip?",
+        "answer": "If a refund is eligible, it will be processed automatically, or you can contact support for assistance."
+    },
+    {
+        "question": "Can you tell me a joke?",
+        "answer": "Sure! Why did the scarecrow win an award? Because he was outstanding in his field!"
+    },
+    {
+        "question": "Do you know any more jokes?",
+        "answer": "Of course! What do you call fake spaghetti? An impasta!"
+    },
+    {
+        "question": "Tell me a funny taxi-related joke.",
+        "answer": "Why don�t taxis tell secrets? Because they always drive a hard bargain!"
+    },
+    {
+        "question": "Can you make me laugh?",
+        "answer": "I'll try! Why did the bicycle fall over? It was two-tired!"
+    },
+    {
+        "question": "What�s the funniest thing you've heard?",
+        "answer": "Why don�t skeletons fight each other? They don�t have the guts!"
+    },
+    {
+        "question": "How about a technology joke?",
+        "answer": "Why did the computer go to the doctor? Because it had a virus!"
+    },
+    {
+        "question": "Can you share a knock-knock joke?",
+        "answer": "Knock, knock! Who�s there? Lettuce. Lettuce who? Lettuce in, it's cold out here!"
+    },
+    {
+        "question": "Do you have a pun for me?",
+        "answer": "I�m reading a book on anti-gravity�it�s impossible to put down!"
+    },
+    {
+        "question": "What�s a taxi driver�s favorite music?",
+        "answer": "Anything with a good drive!"
+    },
+    {
+        "question": "Can you tell me another taxi joke?",
+        "answer": "Why do taxis never get lost? They always know the fare way!"
+    },
+    {
+        "question": "What time is it now?",
+        "answer": "You can check the current time on your device�s clock or ask a smart assistant for the exact time."
+    },
+    {
+        "question": "Can you set a reminder for me?",
+        "answer": "Unfortunately, I can�t set reminders, but you can use your phone�s reminder app."
+    },
+    {
+        "question": "How long will it take to reach my destination?",
+        "answer": "The estimated time of arrival will be shown once you�ve started your trip."
+    },
+    {
+        "question": "Can I schedule a ride for tomorrow?",
+        "answer": "Yes, you can schedule rides in advance using the scheduling feature in the app."
+    },
+    {
+        "question": "How do I check the date today?",
+        "answer": "The current date is displayed on your phone�s home screen or calendar."
+    },
+    {
+        "question": "What�s the best time to request a ride?",
+        "answer": "It�s best to request a ride during off-peak hours to avoid traffic and surge pricing."
+    },
+    {
+        "question": "Can I check the time of my past trips?",
+        "answer": "Yes, your past trips and their times are available under the History section of the app."
+    },
+    {
+        "question": "How can I set an alarm for a trip?",
+        "answer": "You can set an alarm using your phone�s clock app to remind you before your trip."
+    },
+    {
+        "question": "How long does a typical ride take?",
+        "answer": "Ride durations vary depending on traffic and distance, but an estimated time will be provided before you confirm the trip."
+    },
+    {
+        "question": "What is the earliest time I can schedule a ride?",
+        "answer": "You can schedule a ride as early as 24 hours in advance."
+    },
+    {
+        "question": "How do I update my app?",
+        "answer": "You can update the app through the Google Play Store or Apple App Store by checking for available updates."
+    },
+    {
+        "question": "Does E2mars offer promo codes?",
+        "answer": "Yes, E2mars occasionally offers promo codes. Check the promotions section in the app for any ongoing deals."
+    },
+    {
+        "question": "How do I apply a promo code?",
+        "answer": "Go to the payment section during checkout and enter your promo code to apply the discount."
+    },
+    {
+        "question": "How do I refer a friend?",
+        "answer": "You can refer a friend through the referral option in the app and earn rewards when they sign up."
+    },
+    {
+        "question": "Can I earn rewards for using E2mars?",
+        "answer": "Yes, E2mars has a rewards system for frequent users. Check the app for more details."
+    },
+    {
+        "question": "What�s the latest update on E2mars services?",
+        "answer": "For the latest updates, check the announcements section in the app or visit the E2mars website."
+    },
+    {
+        "question": "Can I get a ride during holidays?",
+        "answer": "Yes, E2mars operates during holidays, but availability may vary depending on your location."
+    },
+    {
+        "question": "How do I check if drivers are available in my area?",
+        "answer": "The app will automatically show available drivers near you when you request a ride."
+    },
+    {
+        "question": "How do I leave a review for my driver?",
+        "answer": "After completing your ride, you can leave a rating and review in the app under Trip History."
+    },
+    {
+        "question": "Can I request a specific type of car?",
+        "answer": "Yes, you can select different car types, such as standard or premium, when requesting a ride."
+    },
+    {
+        "question": "How Do I use the driver App?",
+        "answer": "To use the Driver App, simply download it from the designated app store, create an account or log in if you already have one, and follow the intuitive interface to start offering transportation services. Drivers can receive ride requests, navigate to pickup locations, and complete rides with ease."
+    },
+    {
+        "question": "Is the Driver and Rider App for free?",
+        "answer": "Yes, both the Driver and Rider Apps are available for free download. However, standard data charges may apply depending on your mobile service provider."
+    },
+    {
+        "question": "What is E2mars Taxi?",
+        "answer": "E2mars is an innovative transportation ecosystem offering seamless solutions for both drivers and riders. It provides user-friendly apps designed to enhance convenience and efficiency in the transportation sector."
+    },
+    {
+        "question": "Where can I find E2mars Apps?",
+        "answer": "E2mars Apps are available for download on the Google Play Store and Apple App Store. Users can also access them by scanning the provided QR code."
+    },
+    {
+        "question": "Are the Driver and Rider Apps available everywhere?",
+        "answer": "The availability of the Driver and Rider Apps may vary depending on geographic regions and regulatory considerations. It's recommended to check the app store listings for specific availability in your area."
+    },
+    {
+        "question": "How can my account be approved?",
+        "answer": "Account approval is typically facilitated through a verification process conducted by E2mars. Users may need to provide certain information or documents to verify their identity and ensure compliance with platform policies."
+    },
+    {
+        "question": "What is E2marsAI?",
+        "answer": "E2marsAI is the artificial intelligence component integrated within the E2mars ecosystem. It leverages advanced algorithms and data analytics to optimize various aspects of transportation, such as route planning, fare estimation, and demand prediction."
+    },
+    {
+        "question": "How Do I use the Rider App?",
+        "answer": "Using the Rider App is easy: download it from your preferred app store, create an account or log in, and then input your desired destination to request a ride. Riders can track their driver's location, view trip details, and provide feedback for a seamless experience."
+    },
+    {
+        "question": "What is E2mars Ecosystem?",
+        "answer": "The E2mars Ecosystem encompasses a comprehensive suite of applications and services tailored in many areas such as transportation, restauration, Marketplace, etc. It offers a seamless and efficient platform for transportation needs, promoting connectivity and reliability."
+    },
+    {
+        "question": "How do I contact E2mars support?",
+        "answer": "You can contact E2mars support through the in-app help center or by emailing support@e2mars.com."
+    },
+    {
+        "question": "What payment methods are accepted by E2mars?",
+        "answer": "E2mars accepts various payment methods including credit/debit cards, mobile payments, and in some regions, cash."
+    },
+    {
+        "question": "Can I tip my driver using the E2mars app?",
+        "answer": "Yes, you can tip your driver directly through the E2mars app after completing a ride."
+    },
+    {
+        "question": "How do I add a payment method to my E2mars account?",
+        "answer": "To add a payment method, go to the payment section of the app and input your card or payment details."
+    },
+    {
+        "question": "What time does E2mars operate?",
+        "answer": "E2mars operates 24/7, allowing you to book a ride at any time of day or night."
+    },
+    {
+        "question": "Can I schedule a ride in advance?",
+        "answer": "Yes, E2mars allows you to schedule rides in advance through the 'Schedule a Ride' feature in the app."
+    },
+    {
+        "question": "Does E2mars operate on public holidays?",
+        "answer": "Yes, E2mars operates every day, including public holidays."
+    },
+    {
+        "question": "Can I change my payment method during a trip?",
+        "answer": "No, you must select your preferred payment method before starting a trip."
+    },
+    {
+        "question": "How do I get a fare estimate?",
+        "answer": "You can get a fare estimate by entering your pickup and destination details in the E2mars app before requesting a ride."
+    },
+    {
+        "question": "How do I cancel a trip?",
+        "answer": "To cancel a trip, open the E2mars app, go to the current ride section, and select 'Cancel Trip'."
+    },
+    {
+        "question": "How do I report an issue with my trip?",
+        "answer": "To report an issue, visit the support section in the app or contact customer service directly."
+    },
+    {
+        "question": "Can I request a specific driver?",
+        "answer": "No, E2mars does not allow users to request specific drivers."
+    },
+    {
+        "question": "What happens if my driver is late?",
+        "answer": "You will be notified through the app if there is a delay. You can also contact your driver to get updates."
+    },
+    {
+        "question": "How do I rate my driver after a trip?",
+        "answer": "After completing a trip, you will be prompted to rate your driver and provide feedback in the app."
+    },
+    {
+        "question": "What is the cancellation fee for E2mars?",
+        "answer": "Cancellation fees may apply if a trip is canceled after a certain period. Check the app for details on cancellation fees in your region."
+    },
+    {
+        "question": "Can I get a refund if I'm not satisfied with my trip?",
+        "answer": "Refunds are assessed on a case-by-case basis. Contact customer support for assistance."
+    },
+    {
+        "question": "Can I share a ride with someone else?",
+        "answer": "Yes, E2mars allows ride-sharing with multiple passengers."
+    },
+    {
+        "question": "How do I track my ride in real-time?",
+        "answer": "You can track your ride in real-time by following the driver's location on the in-app map."
+    },
+    {
+        "question": "Can I change my destination during a trip?",
+        "answer": "Yes, you can change your destination during the trip by updating it in the app, though additional charges may apply."
+    },
+    {
+        "question": "Why did I receive a higher fare than estimated?",
+        "answer": "Fares can vary based on traffic, distance, and other factors. If you believe there was a mistake, contact customer support."
+    },
+    {
+        "question": "What should I do if I left something in the car?",
+        "answer": "Contact your driver through the app or report the lost item to E2mars support."
+    },
+    {
+        "question": "Can I request a ride for someone else?",
+        "answer": "Yes, you can request a ride for someone else by entering their location and contact details."
+    },
+    {
+        "question": "Can I split the fare with someone else?",
+        "answer": "Currently, E2mars does not support fare-splitting."
+    },
+    {
+        "question": "How do I know the driver's name and car details?",
+        "answer": "Once your ride is confirmed, the driver's name, car make, model, and license plate will be displayed in the app."
+    },
+    {
+        "question": "Is there a way to contact my driver directly?",
+        "answer": "Yes, you can contact your driver through the app via call or message."
+    },
+    {
+        "question": "How do I know if my payment went through?",
+        "answer": "After the trip, a payment confirmation will be sent to your registered email or can be viewed in the app."
+    },
+    {
+        "question": "What should I do if my payment fails?",
+        "answer": "If your payment fails, try updating your payment method or contact customer support for assistance."
+    },
+    {
+        "question": "Why is my account temporarily suspended?",
+        "answer": "Your account may be suspended due to issues with payment or other violations. Contact customer support to resolve this."
+    },
+    {
+        "question": "Can I book a ride for a large group?",
+        "answer": "Yes, E2mars offers ride options for larger groups, but availability may depend on your location."
+    },
+    {
+        "question": "Is there a loyalty program for frequent riders?",
+        "answer": "E2mars is working on a loyalty program for frequent riders. Stay tuned for updates."
+    },
+    {
+        "question": "Do I need to tip my driver?",
+        "answer": "Tipping is optional, but always appreciated. You can add a tip through the app after your ride."
+    },
+    {
+        "question": "Can I drive for E2mars with my own car?",
+        "answer": "Yes, you can use your own car to drive for E2mars, provided it meets the platform's vehicle requirements."
+    },
+        {
+            "question": "How to request a trip?",
+            "keywords": [ "request", "trip", "access", "how" ],
+            "answer": "Ensure that you are logged in, find a drop off location and to make request."
+        },
+        {
+            "question": "What is E2Mars?",
+            "keywords": [ "E2Mars", "platform", "multi-service" ],
+            "answer": "E2Mars is a multi-service platform that connects passengers with drivers, offering reliable and convenient transportation solutions."
+        },
+        {
+            "question": "Is E2Mars available in my city?",
+            "keywords": [ "available", "city", "location" ],
+            "answer": "E2Mars is expanding to various cities. Please check our website or app to see if we are available in your city."
+        },
+        {
+            "question": "Login with your credentials",
+            "answer": "Ensure that you are logged in to access all features of the app."
+        },
+
+        {
+            "question": "Make sure the first textField loads your current address (pickUp address)",
+            "keywords": [ "current address", "pickup", "location", "load" ],
+            "answer": "The app should automatically detect and load your current location."
+        },
+        {
+            "question": "Choose the class before choosing the dropoff location (Economy, comfort, and business)",
+            "keywords": [ "class", "dropoff", "economy", "comfort", "business" ],
+            "answer": "Select your desired ride class (Economy, Comfort, or Business) before entering your drop-off location to see the estimated fare."
+        },
+        {
+            "question": "Click on DropOff location green button",
+            "keywords": [ "dropoff", "location", "button" ],
+            "answer": "Press the button to select your desired drop-off location."
+        },
+        {
+            "question": "Write your detailed dropOff location and select the address accordingly",
+            "keywords": [ "detailed", "dropoff", "address", "select" ],
+            "answer": "Enter the exact address where you want to be dropped off and select from the suggestions."
+        },
+        {
+            "question": "Check the fare amount; if it is good for you, if not, please provide your fare amount (not exceeding a 10% difference)",
+            "keywords": [ "fare amount", "check", "adjust", "10% difference" ],
+            "answer": "Review the estimated fare and adjust if necessary, ensuring it does not exceed the allowed limit."
+        },
+        {
+            "question": "Click on the Request a ride pink button",
+            "keywords": [ "request", "ride", "pink button" ],
+            "answer": "Confirm your request by clicking the button to send a ride request."
+        },
+        {
+            "question": "Wait for the nearest online drivers to respond",
+            "keywords": [ "wait", "online drivers", "respond" ],
+            "answer": "Stay on the screen while the app connects you to available drivers nearby."
+        },
+        {
+            "question": "Once the driver responds, the app will show the driver's name, rating, and car details",
+            "keywords": [ "driver responds", "name", "rating", "car details" ],
+            "answer": "Review the driver's information before confirming the ride."
+        },
+        {
+            "question": "Once the driver arrives at the pickUp address, the system will notify you",
+            "keywords": [ "driver arrives", "pickup address", "notify" ],
+            "answer": "Be ready as the app informs you of the driver's arrival."
+        },
+        {
+            "question": "If you start for the dropOff address, the system will notify you",
+            "keywords": [ "start", "dropoff", "notify" ],
+            "answer": "The app will notify you when the journey starts towards the drop-off location."
+        },
+        {
+            "question": "If the driver accepts the request please click on the navigation to activate Google turn-by-turn option",
+            "keywords": [ "driver accepts", "navigation", "google", "turn-by-turn" ],
+            "answer": "Once the driver accepts the ride, you can use the in-app navigation feature to follow the route with Google's turn-by-turn directions."
+        },
+        {
+            "question": "Once you arrive at the destination, the system will ask you to pay (Cash)",
+            "keywords": [ "arrive", "destination", "pay", "cash" ],
+            "answer": "Prepare to pay the fare in cash once you reach your destination."
+        },
+        {
+            "question": "If you feel you are in danger in that car, just click on the SOS button to make a call to the nearest police office",
+            "keywords": [ "danger", "SOS button", "emergency", "police" ],
+            "answer": "In case of an emergency, use the SOS feature for immediate assistance."
+        },
+        {
+            "question": "When the driver is coming to the pickUp address, you have the option to cancel the ride and provide a valid reason",
+            "keywords": [ "cancel ride", "valid reason", "driver arrives" ],
+            "answer": "If needed, you can cancel the ride with a valid reason before the driver arrives."
+        },
+        {
+            "question": "If you have any questions, click on the button below to ask questions to our customer care agent",
+            "keywords": [ "questions", "customer care", "support button" ],
+            "answer": "Use the support button to reach out to customer service for any inquiries."
+        },
+        {
+            "question": "How can I join E2Mars?",
+            "keywords": [ "join", "sign up", "register" ],
+            "answer": "You can join E2Mars by signing up on our website or through the mobile app. Simply fill in the required details and create an account."
+        },
+        {
+            "question": "What services does E2Mars offer?",
+            "keywords": [ "services", "offer", "ride", "transportation" ],
+            "answer": "E2Mars offers various services including ride-hailing, car rentals, and delivery services to meet your transportation needs."
+        },
+
+        {
+            "question": "How can I become a driver?",
+            "keywords": [ "driver", "become", "register", "apply" ],
+            "answer": "To become a driver, you need to sign up on the E2Mars platform, provide the required documents, and pass a background check."
+        },
+        {
+            "question": "What are the requirements to become a driver?",
+            "keywords": [ "requirements", "driver", "criteria" ],
+            "answer": "The requirements to become a driver include a valid driver's license, a clean driving record, and an eligible vehicle that meets our standards."
+        },
+        {
+            "question": "How do I book a ride?",
+            "keywords": [ "book", "ride", "request" ],
+            "answer": "You can book a ride by opening the E2Mars app, entering your pickup and drop-off locations, and selecting a ride option that suits you."
+        },
+        {
+            "question": "How can I contact customer support?",
+            "keywords": [ "contact", "customer support", "help" ],
+            "answer": "You can contact our customer support through the app or by visiting the contact us section on our website. We are here to help you with any issues."
+        },
+        {
+            "question": "What payment methods does E2Mars accept?",
+            "keywords": [ "payment", "methods", "pay" ],
+            "answer": "E2Mars accepts various payment methods including credit/debit cards, mobile payments, and in-app wallet."
+        },
+        {
+            "question": "How do I track my ride?",
+            "keywords": [ "track", "ride", "location" ],
+            "answer": "You can track your ride in real-time through the E2Mars app. The app will show you the driver's location and estimated time of arrival."
+        },
+        {
+            "question": "Can I schedule a ride in advance?",
+            "keywords": [ "schedule", "ride", "advance", "book" ],
+            "answer": "Yes, you can schedule a ride in advance using the E2Mars app. Simply select the date and time you need the ride and confirm your booking."
+        },
+        {
+            "question": "What if I need to cancel my ride?",
+            "keywords": [ "cancel", "ride", "booking" ],
+            "answer": "If you need to cancel your ride, you can do so through the app. Please note that cancellation fees may apply depending on the timing of the cancellation."
+        },
+        {
+            "question": "How do I update my account information?",
+            "keywords": [ "update", "account", "information" ],
+            "answer": "You can update your account information by logging into the E2Mars app, going to the account settings, and making the necessary changes."
+        },
+        {
+            "question": "Are there any discounts or promotions available?",
+            "keywords": [ "discounts", "promotions", "offers" ],
+            "answer": "E2Mars frequently offers discounts and promotions. Check the app or our website for the latest offers and how to apply them to your rides."
+        },
+        {
+            "question": "What safety measures does E2Mars have in place?",
+            "keywords": [ "safety", "measures", "protocols" ],
+            "answer": "E2Mars prioritizes safety by conducting background checks on drivers, providing in-app emergency features, and implementing hygiene protocols for vehicles."
+        },
+        {
+            "question": "How are you?",
+            "keywords": [ "how are you", "doing", "feeling" ],
+            "answer": "Im here and ready to assist you with any questions you have about E2Mars!"
+        },
+        {
+            "question": "Who are you?",
+            "keywords": [ "who are you", "chatbot", "assistant" ],
+            "answer": "I am the E2Mars chatbot designed to help you with information and support regarding our platform."
+        },
+        {
+            "question": "How does E2Mars ensure driver quality?",
+            "keywords": [ "driver quality", "screening", "vetting" ],
+            "answer": "E2Mars ensures driver quality through thorough background checks, vehicle inspections, and customer ratings and feedback."
+        },
+        {
+            "question": "What should I do if my driver doesn't arrive on time?",
+            "keywords": [ "driver late", "not arrived", "delay" ],
+            "answer": "If your driver is running late, you can track their location in real-time through the app. If there are issues, please contact our support team for assistance."
+        },
+        {
+            "question": "Can I request a specific driver?",
+            "keywords": [ "specific driver", "choose driver", "favorite driver" ],
+            "answer": "Currently, E2Mars assigns the nearest available driver to ensure efficiency. However, you can leave feedback to help us improve your experience."
+        },
+        {
+            "question": "What happens if I leave something in the car?",
+            "keywords": [ "lost item", "left behind", "retrieve" ],
+            "answer": "If you left something in the car, please contact our support team immediately. We will assist you in retrieving your lost item from the driver."
+        },
+        {
+            "question": "How can I leave feedback about my ride?",
+            "keywords": [ "leave feedback", "review", "rate ride" ],
+            "answer": "You can leave feedback about your ride through the app after completing your journey. Your feedback helps us maintain service quality."
+        },
+        {
+            "question": "What are the peak hours for E2Mars?",
+            "keywords": [ "peak hours", "busy times", "rush hour" ],
+            "answer": "Peak hours for E2Mars vary by location, generally aligning with rush hours and event schedules. Plan ahead to ensure availability during busy times."
+        },
+        {
+            "question": "How does E2Mars handle emergencies?",
+            "keywords": [ "emergency", "safety issue", "incident" ],
+            "answer": "E2Mars has in-app emergency features. In case of emergencies, use these features to alert us immediately. Your safety is our priority."
+        },
+        {
+            "question": "What are the benefits of using E2Mars?",
+            "keywords": [ "benefits", "advantages", "reasons to use" ],
+            "answer": "Using E2Mars provides convenience, reliability, and safety. Enjoy seamless rides, multiple service options, and 24/7 support."
+        },
+        {
+            "question": "How can I refer a friend to E2Mars?",
+            "keywords": [ "refer a friend", "invite", "earn rewards" ],
+            "answer": "You can refer friends to E2Mars through the app. Earn rewards when they sign up and take their first ride. Sharing is rewarding!"
+        },
+        {
+            "question": "What should I do if I have a payment issue?",
+            "keywords": [ "payment issue", "billing problem", "charge error" ],
+            "answer": "For payment issues, check your payment method in the app. Contact support if further assistance is needed regarding billing or charges."
+        },
+        {
+            "question": "How can I change my pickup location after booking?",
+            "keywords": [ "change pickup", "modify location", "update address" ],
+            "answer": "You can modify your pickup location before your driver arrives by adjusting the location in the app. Ensure to communicate with your driver as well."
+        },
+        {
+            "question": "Does E2Mars offer corporate accounts?",
+            "keywords": [ "corporate accounts", "business solutions", "company account" ],
+            "answer": "Yes, E2Mars offers corporate accounts tailored to business needs. Contact our corporate services team for more information and benefits."
+        },
+        {
+            "question": "How does E2Mars handle cancellations?",
+            "keywords": [ "cancellations", "cancel ride", "refund" ],
+            "answer": "Cancellation policies vary based on timing and circumstances. Review our cancellation policy in the app or contact support for specific inquiries."
+        },
+        {
+            "question": "Can I book multiple rides in advance?",
+            "keywords": [ "multiple rides", "book in advance", "schedule rides" ],
+            "answer": "Yes, you can schedule multiple rides in advance using the E2Mars app. Manage your upcoming trips conveniently."
+        },
+        {
+            "question": "What measures does E2Mars take for environmental sustainability?",
+            "keywords": [ "environmental sustainability", "green initiatives", "eco-friendly" ],
+            "answer": "E2Mars is committed to environmental sustainability through initiatives like promoting hybrid and electric vehicles among our drivers."
+        },
+        {
+            "question": "How does E2Mars handle customer complaints?",
+            "keywords": [ "customer complaints", "issue resolution", "feedback" ],
+            "answer": "E2Mars takes customer feedback seriously. Contact our support team with any concerns, and we will work to resolve them promptly."
+        },
+        {
+            "question": "What languages does the E2Mars app support?",
+            "keywords": [ "languages", "app support", "multilingual" ],
+            "answer": "The E2Mars app supports multiple languages to ensure a user-friendly experience for our diverse customer base."
+        },
+
+        {
+            "question": "Can I pay cash for my ride?",
+            "keywords": [ "pay cash", "cash payment", "payment methods" ],
+            "answer": "Currently, E2Mars only accepts digital payments through the app for a seamless and secure transaction experience."
+        },
+        {
+            "question": "How do I update my payment method?",
+            "keywords": [ "update payment", "change card", "billing information" ],
+            "answer": "To update your payment method, go to the payment settings in the E2Mars app and add or edit your billing information."
+        },
+        {
+            "question": "What happens if there is a fare dispute?",
+            "keywords": [ "fare dispute", "incorrect fare", "billing issue" ],
+            "answer": "If you have a fare dispute, please contact our customer support with the ride details, and we will investigate and resolve the issue."
+        },
+        {
+            "question": "Can I ride with my pet?",
+            "keywords": [ "ride with pet", "pets allowed", "pet policy" ],
+            "answer": "Yes, E2Mars allows pets. Please inform your driver in advance and ensure that your pet is properly secured during the ride."
+        },
+        {
+            "question": "How can I check my ride history?",
+            "keywords": [ "ride history", "past rides", "trip records" ],
+            "answer": "You can check your ride history by logging into the E2Mars app and navigating to the \"My Rides\" section where all your past trips are listed."
+        },
+        {
+            "question": "Does E2Mars offer rides for people with disabilities?",
+            "keywords": [ "disabilities", "accessible rides", "special needs" ],
+            "answer": "E2Mars is committed to providing accessible transportation. We offer rides for people with disabilities and special needs. Please specify your requirements when booking."
+        },
+        {
+            "question": "What is the minimum age requirement to use E2Mars?",
+            "keywords": [ "minimum age", "age requirement", "legal age" ],
+            "answer": "The minimum age requirement to use E2Mars is 18 years old. Users must meet this age requirement to create an account and book rides."
+        },
+        {
+            "question": "Can I share my ride with others?",
+            "keywords": [ "share ride", "ride-sharing", "carpool" ],
+            "answer": "Yes, you can share your ride with others using our ride-sharing option in the E2Mars app. This helps reduce costs and is environmentally friendly."
+        },
+        {
+            "question": "How do I report a problem with my driver?",
+            "keywords": [ "report driver", "driver issue", "complaint" ],
+            "answer": "To report a problem with your driver, use the feedback feature in the app after your ride, or contact our customer support directly for assistance."
+        },
+        {
+            "question": "What areas does E2Mars cover?",
+            "keywords": [ "areas covered", "service area", "coverage" ],
+            "answer": "E2Mars covers a wide range of areas. For specific locations, please check the service area map in our app or on our website."
+        },
+        {
+            "question": "How do I get a receipt for my ride?",
+            "keywords": [ "receipt", "invoice", "ride details" ],
+            "answer": "You can get a receipt for your ride by going to the \"My Rides\" section in the app and selecting the ride for which you need a receipt. You can then download or email it."
+        },
+        {
+            "question": "What if I have trouble using the app?",
+            "keywords": [ "trouble", "app issue", "technical support" ],
+            "answer": "If you have trouble using the app, try restarting it. If the problem persists, contact our technical support team for assistance."
+        },
+        {
+            "question": "Can I provide special instructions for my ride?",
+            "keywords": [ "special instructions", "ride details", "additional info" ],
+            "answer": "Yes, you can provide special instructions for your ride in the app when booking. This helps the driver understand your specific needs."
+        },
+        {
+            "question": "What should I do if my app is not working?",
+            "keywords": [ "app not working", "technical issue", "app problem" ],
+            "answer": "If your app is not working, try restarting your device and ensuring you have the latest version of the app. If the issue continues, contact our support team."
+        },
+        {
+            "question": "Does E2Mars have a loyalty program?",
+            "keywords": [ "loyalty program", "rewards", "points" ],
+            "answer": "E2Mars offers a loyalty program where you can earn points for each ride and redeem them for discounts and rewards. Check the app for more details."
+        },
+        {
+            "question": "Can I book a ride without the app?",
+            "keywords": [ "book without app", "phone booking", "alternative booking" ],
+            "answer": "Currently, rides can only be booked through the E2Mars app to ensure a streamlined and secure process."
+        },
+        {
+            "question": "What should I do if my driver asks for extra payment?",
+            "keywords": [ "extra payment", "driver request", "overcharge" ],
+            "answer": "If your driver asks for extra payment, please report this immediately to our customer support. All payments should be processed through the app."
+        },
+        {
+            "question": "How does E2Mars handle surge pricing?",
+            "keywords": [ "surge pricing", "price increase", "peak times" ],
+            "answer": "E2Mars uses dynamic pricing during peak times to ensure availability. You will be notified of any surge pricing before confirming your ride."
+        },
+        {
+            "question": "Can I cancel my scheduled ride?",
+            "keywords": [ "cancel scheduled ride", "change booking", "modify ride" ],
+            "answer": "Yes, you can cancel your scheduled ride through the app. Please note that cancellation policies may apply depending on the timing of the cancellation."
+        },
+        {
+            "question": "Does E2Mars offer customer support in multiple languages?",
+            "keywords": [ "customer support", "multiple languages", "language options" ],
+            "answer": "Yes, E2Mars offers customer support in multiple languages to cater to our diverse user base. Choose your preferred language in the app settings."
+        },
+        {
+            "question": "How do I update my profile information?",
+            "keywords": [ "update profile", "edit information", "account settings" ],
+            "answer": "You can update your profile information by logging into the E2Mars app, navigating to your account settings, and making the necessary changes."
+        },
+        {
+            "question": "What is the cancellation policy for E2Mars?",
+            "keywords": [ "cancellation policy", "cancel ride", "refund policy" ],
+            "answer": "The cancellation policy varies based on the timing of the cancellation. Please refer to our terms and conditions in the app for detailed information."
+        },
+        {
+            "question": "How does E2Mars handle lost and found items?",
+            "keywords": [ "lost and found", "lost item", "missing belongings" ],
+            "answer": "If you have lost an item during your ride, please contact our support team immediately. We will assist you in recovering your lost item from the driver."
+        },
+        {
+            "question": "Can I schedule recurring rides?",
+            "keywords": [ "recurring rides", "repeat booking", "schedule rides" ],
+            "answer": "Currently, E2Mars does not support recurring ride scheduling. You will need to book each ride individually through the app."
+        },
+        {
+            "question": "What if my driver takes a longer route?",
+            "keywords": [ "longer route", "route issue", "driver problem" ],
+            "answer": "If your driver takes a longer route without your consent, please report this to our support team. We will review the ride and adjust the fare if necessary."
+        },
+        {
+            "question": "Are there any fees for booking in advance?",
+            "keywords": [ "advance booking", "scheduling fees", "booking fees" ],
+            "answer": "There are no additional fees for booking rides in advance through the E2Mars app. The fare will be calculated based on the distance and time of the ride."
+        },
+        {
+            "question": "How can I change my destination during a ride?",
+            "keywords": [ "change destination", "update drop-off", "modify route" ],
+            "answer": "You can change your destination during a ride by updating the drop-off location in the app. The fare will be adjusted accordingly."
+        },
+        {
+            "question": "Does E2Mars offer bike or scooter rentals?",
+            "keywords": [ "bike rental", "scooter rental", "alternative transport" ],
+            "answer": "Currently, E2Mars focuses on car ride-hailing services. Stay tuned for updates as we expand our offerings in the future."
+        },
+        {
+            "question": "What should I do if I have a bad experience with a driver?",
+            "keywords": [ "bad experience", "driver complaint", "issue with driver" ],
+            "answer": "If you have a bad experience with a driver, please leave feedback through the app and contact our support team. We take all complaints seriously and will take appropriate action."
+        },
+        {
+            "question": "Can I get an estimate of the fare before booking?",
+            "keywords": [ "fare estimate", "cost prediction", "price estimate" ],
+            "answer": "Yes, you can get an estimate of the fare before booking by entering your pickup and drop-off locations in the E2Mars app. The app will provide an estimated cost."
+        },
+        {
+            "question": "How can I ensure my ride is safe?",
+            "keywords": [ "ride safety", "safe travel", "safety tips" ],
+            "answer": "To ensure your ride is safe, always verify the driver and vehicle details before starting your trip. Use the in-app emergency features if needed, and follow safety guidelines provided by E2Mars."
+        },
+        {
+            "question": "What if my driver asks me to change the payment method?",
+            "answer": "All payments should be processed through the E2Mars app. If your driver asks you to change the payment method, please report this to our support team immediately."
+        },
+        {
+            "question": "Does E2Mars offer any referral bonuses?",
+            "answer": "Yes, E2Mars offers referral bonuses for inviting friends to join the platform. You and your friend can earn rewards when they sign up and complete their first ride."
+        },
+        {
+            "question": "How can I get help if I have an issue during my ride?",
+            "answer": "If you have an issue during your ride, use the in-app emergency feature or contact our support team for immediate assistance."
+        },
+        {
+            "question": "What is E2Mars's policy on ride cancellations?",
+            "keywords": [ "ride cancellations", "cancel policy", "cancellation" ],
+            "answer": "E2Mars allows ride cancellations through the app. Depending on the timing, cancellation fees may apply. Check our terms and conditions for detailed policy information."
+        },
+        {
+            "question": "Can I rate my driver after the ride?",
+            "keywords": [ "rate driver", "feedback", "review" ],
+            "answer": "Yes, you can rate your driver and provide feedback after completing your ride. Your feedback helps us maintain high service standards."
+        },
+        {
+            "question": "What should I do if I forget to rate my driver?",
+            "keywords": [ "forget to rate", "missed rating", "feedback" ],
+            "answer": "If you forget to rate your driver, you can still leave feedback through the ride history section in the E2Mars app."
+        },
+        {
+            "question": "How can I ensure my personal information is safe?",
+            "keywords": [ "personal information", "data security", "privacy" ],
+            "answer": "E2Mars takes data security seriously. We use encryption and other security measures to protect your personal information. For more details, review our privacy policy."
+        },
+        {
+            "question": "Can I use E2Mars for long-distance trips?",
+            "keywords": [ "long-distance trips", "out of town", "extended rides" ],
+            "answer": "Yes, you can use E2Mars for long-distance trips. Enter your desired destination in the app, and the fare will be calculated accordingly."
+        },
+        {
+            "question": "What is E2Mars's policy on driver tipping?",
+            "keywords": [ "driver tipping", "tip policy", "gratuity" ],
+            "answer": "Tipping drivers is optional and can be done through the app. The amount is entirely up to you, based on your satisfaction with the ride."
+        },
+        {
+            "question": "Does E2Mars have a feedback system?",
+            "keywords": [ "feedback system", "leave feedback", "reviews" ],
+            "answer": "Yes, E2Mars has a feedback system that allows you to rate and review your rides and drivers. Your feedback is valuable and helps improve our services."
+        },
+        {
+            "question": "Hello!",
+            "keywords": [ "hello", "hi", "hey" ],
+            "answer": "Hi there! How can I assist you today?"
+        },
+        {
+            "question": "How are you?",
+            "keywords": [ "how are you", "how do you do" ],
+            "answer": "I’m just a chatbot, but I’m here and ready to help you!"
+        },
+        {
+            "question": "What’s your name?",
+            "keywords": [ "your name", "who are you" ],
+            "answer": "I’m the E2Mars chatbot, here to assist you with any questions you have about our services."
+        },
+        {
+            "question": "What do you do?",
+            "keywords": [ "what do you do", "your job", "purpose" ],
+            "answer": "I’m here to help you navigate E2Mars, answer your questions, and provide support."
+        },
+        {
+            "question": "Where are you from?",
+            "keywords": [ "where are you from", "location" ],
+            "answer": "I exist in the digital world, specifically here to help E2Mars users like you!"
+        },
+        {
+            "question": "What’s your favorite color?",
+            "keywords": [ "favorite color", "color preference" ],
+            "answer": "As a chatbot, I don’t have preferences, but I do think E2Mars blue looks great!"
+        },
+        {
+            "question": "Tell me a joke.",
+            "keywords": [ "tell me a joke", "joke", "funny" ],
+            "answer": "Why don’t scientists trust atoms? Because they make up everything!"
+        },
+        {
+            "question": "What’s the weather like?",
+            "keywords": [ "weather", "outside", "forecast" ],
+            "answer": "I can’t check the weather, but I hope it’s nice where you are!"
+        },
+        {
+            "question": "Do you have any hobbies?",
+            "keywords": [ "hobbies", "free time" ],
+            "answer": "I enjoy helping users like you and learning more about your needs!"
+        },
+        {
+            "question": "What’s your favorite food?",
+            "keywords": [ "favorite food", "eat" ],
+            "answer": "I don’t eat, but I hear that the drivers at E2Mars love sharing their favorite local spots!"
+        },
+        {
+            "question": "Can you sing?",
+            "keywords": [ "sing", "song" ],
+            "answer": "I can’t sing, but I can definitely help you with any E2Mars-related questions!"
+        },
+        {
+            "question": "What’s your favorite movie?",
+            "keywords": [ "favorite movie", "film" ],
+            "answer": "As a chatbot, I don’t watch movies, but I’ve heard great things about travel documentaries!"
+        },
+        {
+            "question": "Do you have any pets?",
+            "keywords": [ "pets", "animals" ],
+            "answer": "I don’t have any pets, but E2Mars drivers often share stories about their furry friends!"
+        },
+        {
+            "question": "Can you tell me a fun fact?",
+            "keywords": [ "fun fact", "interesting" ],
+            "answer": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible!"
+        },
+        {
+            "question": "What’s your favorite sport?",
+            "keywords": [ "favorite sport", "play sports" ],
+            "answer": "I don’t play sports, but I know our drivers enjoy everything from soccer to basketball!"
+        },
+        {
+            "question": "Do you like music?",
+            "keywords": [ "music", "listen to music" ],
+            "answer": "I don’t listen to music, but I can help you find the best rides in town!"
+        },
+        {
+            "question": "What’s your favorite book?",
+            "keywords": [ "favorite book", "read" ],
+            "answer": "I don’t read books, but I’m programmed with a lot of helpful information about E2Mars!"
+        },
+        {
+            "question": "Can you dance?",
+            "keywords": [ "dance", "dancing" ],
+            "answer": "I can’t dance, but I can certainly help you find a ride to your next dance party!"
+        },
+        {
+            "question": "What’s your favorite holiday?",
+            "keywords": [ "favorite holiday", "celebrate" ],
+            "answer": "I don’t celebrate holidays, but I hope you have a wonderful time during yours!"
+        },
+        {
+            "question": "Do you play games?",
+            "keywords": [ "play games", "games" ],
+            "answer": "I don’t play games, but I can help you get to where you need to go quickly and safely!"
+        },
+        {
+            "question": "Hi! How can I book a ride?",
+            "keywords": [ "hi", "hello", "booking a ride", "book a ride" ],
+            "answer": "Hello! To book a ride, simply open the E2Mars app, enter your pickup and drop-off locations, select your ride type, and confirm your booking!"
+        },
+        {
+            "question": "Hey there! Can I pay cash for my ride?",
+            "keywords": [ "hey", "hi", "pay cash", "payment methods" ],
+            "answer": "Hi! Currently, E2Mars only accepts digital payments through the app for a seamless and secure transaction experience."
+        },
+        {
+            "question": "Hello! How do I become a driver?",
+            "keywords": [ "hello", "hi", "become a driver", "driver registration" ],
+            "answer": "Hi there! To become a driver with E2Mars, you need to sign up through our driver registration process on our website or mobile app."
+        },
+        {
+            "question": "Hi! What should I do if I have a complaint about my ride?",
+            "keywords": [ "hi", "hello", "complaint", "report issue" ],
+            "answer": "Hello! If you have a complaint about your ride, please contact our customer support with the ride details, and we will assist you promptly."
+        },
+        {
+            "question": "Hey! How can I check my ride history?",
+            "keywords": [ "hey", "hello", "ride history", "past rides" ],
+            "answer": "Hi there! You can check your ride history by logging into the E2Mars app and navigating to the \"My Rides\" section."
+        },
+        {
+            "question": "Hello! Is E2Mars available in my city?",
+            "keywords": [ "hello", "hi", "available in my city", "service availability" ],
+            "answer": "Hi! E2Mars is expanding to various cities. Please check the app or our website for the latest updates on service availability in your city."
+        },
+        {
+            "question": "Hi! How can I contact customer support?",
+            "keywords": [ "hi", "hello", "contact support", "customer service" ],
+            "answer": "Hello! You can contact our customer support team through the app or visit our website for assistance."
+        },
+        {
+            "question": "Hey there! What services does E2Mars offer?",
+            "keywords": [ "hey", "hi", "services", "offerings" ],
+            "answer": "Hi! E2Mars offers a variety of services including ride-hailing, scheduled rides, and more. Check our app for all available services."
+        },
+        {
+            "question": "Hello! Can I schedule a ride in advance?",
+            "answer": "Hi there! Yes, you can schedule a ride in advance through the E2Mars app. Simply select the date and time you need the ride."
+        },
+        {
+            "question": "Hi! How do I update my payment method?",
+            "answer": "Hello! To update your payment method, go to the payment settings in the E2Mars app and add or edit your billing information."
+        },
+        {
+            "question": "Hey! What happens if there is a fare dispute?",
+            "answer": "Hi there! If you have a fare dispute, please contact our customer support with the ride details, and we will investigate and resolve the issue."
+        },
+        {
+            "question": "Hello! Can I share my ride with others?",
+            "answer": "Hi! Yes, you can share your ride with others using our ride-sharing option in the E2Mars app. It s convenient and environmentally friendly!"
+        },
+        {
+            "question": "What is E2Mars?",
+            "keywords": [ "E2Mars", "platform", "multi-service" ],
+            "answer": "E2Mars is a multi-service platform offering ride-hailing, live tracking, and various other services to make your daily commute easier."
+        },
+        {
+            "question": "How can I join E2Mars?",
+            "keywords": [ "join", "sign up" ],
+            "answer": "You can join E2Mars by signing up on our mobile app, available for download on both iOS and Android devices."
+        },
+        {
+            "question": "What services does E2Mars offer?",
+            "keywords": [ "services", "offer" ],
+            "answer": "E2Mars offers services such as ride-hailing, package delivery, and live tracking of rides and deliveries."
+        },
+        {
+            "question": "Is E2Mars available in my city?",
+            "keywords": [ "available", "city" ],
+            "answer": "E2Mars is expanding to various cities. You can check the availability in your city by entering your location on our app."
+        },
+        {
+            "question": "How can I become a driver?",
+            "keywords": [ "driver", "become" ],
+            "answer": "To become a driver, you need to register on the E2Mars app, provide the necessary documentation, and complete the verification process."
+        },
+        {
+            "question": "How do I book a ride on E2Mars?",
+            "keywords": [ "book", "ride" ],
+            "answer": "You can book a ride on E2Mars by opening the app, selecting your pickup and drop-off locations, and choosing the type of ride you prefer."
+        },
+        {
+            "question": "What payment methods does E2Mars accept?",
+            "keywords": [ "payment", "methods", "accept" ],
+            "answer": "E2Mars accepts various payment methods including credit/debit cards, digital wallets, and cash."
+        },
+        {
+            "question": "Can I track my ride live on E2Mars?",
+            "keywords": [ "track", "ride", "live" ],
+            "answer": "Yes, E2Mars provides live tracking of your ride from the moment you book it until you reach your destination."
+        },
+        {
+            "question": "What should I do if I left an item in the vehicle?",
+            "keywords": [ "left item", "vehicle", "lost and found" ],
+            "answer": "If you left an item in the vehicle, contact the E2Mars support team through the app, and they will assist you in recovering your item."
+        },
+        {
+            "question": "How do I rate my driver?",
+            "keywords": [ "rate", "driver" ],
+            "answer": "You can rate your driver after your ride ends by selecting the ride in your trip history and giving a rating and review."
+        },
+        {
+            "question": "How does E2Mars ensure safety during rides?",
+            "keywords": [ "safety", "rides" ],
+            "answer": "E2Mars ensures safety through driver background checks, real-time ride tracking, and an emergency assistance feature in the app."
+        },
+        {
+            "question": "Can I schedule a ride in advance?",
+            "keywords": [ "schedule", "ride", "advance" ],
+            "answer": "Yes, you can schedule a ride in advance by selecting the “Schedule a Ride” option and choosing your preferred date and time."
+        },
+        {
+            "question": "What types of vehicles are available on E2Mars?",
+            "keywords": [ "vehicles", "types", "available" ],
+            "answer": "E2Mars offers a variety of vehicles including sedans, SUVs, and luxury cars to suit different preferences and needs."
+        },
+        {
+            "question": "How can I contact E2Mars customer support?",
+            "keywords": [ "contact", "customer support" ],
+            "answer": "You can contact E2Mars customer support through the app by navigating to the “Help & Support” section or by calling our support hotline."
+        },
+        {
+            "question": "Are there any discounts available on E2Mars?",
+            "keywords": [ "discounts", "offers" ],
+            "answer": "Yes, E2Mars frequently offers discounts and promotions. Check the “Offers” section in the app for the latest deals."
+        },
+        {
+            "question": "How can I update my payment information?",
+            "keywords": [ "update", "payment information" ],
+            "answer": "You can update your payment information by going to the “Payment” section in the app settings and adding or editing your payment methods."
+        },
+        {
+            "question": "What is the cancellation policy for rides?",
+            "keywords": [ "cancellation", "policy", "rides" ],
+            "answer": "E2Mars allows you to cancel a ride within a certain timeframe without a fee. Check the app for specific cancellation policies and fees."
+        },
+        {
+            "question": "How do I report an issue with my ride?",
+            "keywords": [ "report", "issue", "ride" ],
+            "answer": "You can report an issue with your ride by going to the “Help & Support” section in the app and selecting the relevant ride from your trip history."
+        },
+        {
+            "question": "Can I share my ride with others?",
+            "answer": "Yes, E2Mars offers a ride-sharing option where you can share your ride with others heading in the same direction, often at a reduced fare."
+        },
+        {
+            "question": "What measures does E2Mars take to prevent COVID-19?",
+            "answer": "E2Mars follows strict hygiene protocols including regular sanitization of vehicles, mandatory masks for drivers and passengers, and providing hand sanitizers in vehicles."
+        },
+
+        {
+            "question": "How do I add a new payment method?",
+            "answer": "To add a new payment method, go to the \"Payment\" section in the app settings and select \"Add Payment Method.\" You can add a credit card or link your PayPal account."
+        },
+        {
+            "question": "What happens if my payment fails?",
+            "answer": "If your payment fails, please contact E2Mars customer care through the app or by calling our support hotline for assistance."
+        },
+        {
+            "question": "How do I view my ride receipts?",
+            "answer": "To view your ride receipts, go to the \"History\" section in the app and select the ride you want to view. The receipt will be displayed with all the details."
+        },
+
+        {
+            "question": "What should I do if the app crashes?",
+            "answer": "If the app crashes, please close the app completely and reopen it. If the problem persists, contact our support team."
+        },
+        {
+            "question": "How do I update the E2Mars app?",
+            "answer": "To update the E2Mars app, go to the Play Store (for Android) or the App Store (for iOS), search for E2Mars, and click \"Update.\""
+        },
+        {
+            "question": "How can I recover my password?",
+            "answer": "To recover your password, click on \"Forgot Password\" on the login screen, and follow the instructions to reset your password."
+        },
+        {
+            "question": "How do I delete my E2Mars account?",
+            "answer": "To delete your account, go to the \"Settings\" section in the app, select \"Delete Account,\" and follow the prompts to permanently delete your account."
+        },
+        {
+            "question": "How do I change my phone number?",
+            "answer": "To change your phone number, go to \"Settings\" and select \"Update Phone Number.\" Enter your new phone number and verify it."
+        },
+        {
+            "question": "How do I update my profile information?",
+            "answer": "To update your profile information, go to \"Settings\" and select \"Edit Profile.\" Make the necessary changes and save your updates."
+        },
+
+        {
+            "question": "How do I book a ride?",
+            "answer": "Open the app, select your pickup and drop-off locations, choose your ride type, and confirm your booking."
+        },
+        {
+            "question": "Can I schedule a ride in advance?",
+            "answer": "Yes, you can schedule a ride in advance by selecting the “Schedule a Ride” option and choosing your preferred date and time."
+        },
+        {
+            "question": "How does E2Mars ensure my safety during rides?",
+            "answer": "E2Mars ensures safety through driver background checks, real-time ride tracking, and an emergency assistance feature in the app."
+        },
+        {
+            "question": "What should I do in an emergency during a ride?",
+            "answer": "In case of an emergency, use the SOS button in the app to alert our emergency support team."
+        },
+
+        {
+            "question": "What types of vehicles can I choose from?",
+            "answer": "E2Mars offers various vehicle types, including sedans, SUVs, and luxury cars, to suit different preferences and needs."
+        },
+        {
+            "question": "How can I know the estimated fare before booking?",
+            "keywords": [ "estimated fare", "booking" ],
+            "answer": "The estimated fare is displayed in the app before you confirm your booking, based on the distance and ride type."
+        },
+        {
+            "question": "How are drivers vetted?",
+            "keywords": [ "drivers", "vetted" ],
+            "answer": "Drivers undergo a thorough background check, including driving history and personal verification, before joining E2Mars."
+        },
+        {
+            "question": "How can I contact my driver?",
+            "keywords": [ "contact", "driver" ],
+            "answer": "You can contact your driver through the app once your ride is confirmed by using the call or message button."
+        },
+        {
+            "question": "How can I apply a promo code?",
+            "answer": "Enter your promo code in the \"Promotions\" section of the app before booking your ride to receive a discount."
+        },
+        {
+            "question": "Where can I find current promotions?",
+            "answer": "Check the \"Offers\" section in the app for the latest promotions and discounts available."
+        },
+
+        {
+            "question": "Can I provide feedback on my ride?",
+            "keywords": [ "provide", "feedback", "ride" ],
+            "answer": "Yes, after your ride, you can rate your driver and provide feedback through the app to help us improve our services."
+        },
+        {
+            "question": "How do I enable ride notifications?",
+            "keywords": [ "enable", "ride notifications" ],
+            "answer": "You can enable ride notifications in the \"Settings\" section of the app to receive updates about your ride status."
+        },
+        {
+            "question": "Can I get notifications for promotions?",
+            "keywords": [ "notifications", "promotions" ],
+            "answer": "Yes, you can enable promotional notifications in the app settings to stay informed about the latest deals and offers."
+        },
+        {
+            "question": "How do I disable ride notifications?",
+            "keywords": [ "disable", "ride notifications" ],
+            "answer": "To disable ride notifications, go to the \"Settings\" section in the app and turn off the notification settings for rides."
+        },
+
+        // Adding more questions as per your instruction
+        {
+            "question": "What is the referral program for E2Mars?",
+            "keywords": [ "referral", "program" ],
+            "answer": "E2Mars offers a referral program where you can invite friends to join the platform and earn rewards. Check the \"Referral\" section in the app for more details."
+        },
+        {
+            "question": "How can I update my email address?",
+            "keywords": [ "update", "email address" ],
+            "answer": "To update your email address, go to the \"Settings\" section in the app and select \"Update Email.\" Enter your new email address and verify it."
+        },
+        {
+            "question": "How do I retrieve my trip history?",
+            "keywords": [ "retrieve", "trip history" ],
+            "answer": "You can retrieve your trip history by going to the \"History\" section in the app, where all your past rides are listed with details."
+        },
+        {
+            "question": "How do I cancel a ride after booking?",
+            "keywords": [ "cancel", "ride", "booking" ],
+            "answer": "To cancel a ride after booking, go to the \"Upcoming Rides\" section in the app, select the ride you want to cancel, and click on \"Cancel Ride.\""
+        },
+        {
+            "question": "What should I do if I experience a problem with my ride?",
+            "keywords": [ "problem", "ride" ],
+            "answer": "If you experience a problem with your ride, you can report the issue through the \"Help & Support\" section in the app, and our support team will assist you."
+        },
+        {
+            "question": "Can I change my ride destination during the trip?",
+            "keywords": [ "change", "ride destination", "trip" ],
+            "answer": "Yes, you can change your ride destination during the trip by informing your driver and updating the destination in the app."
+        },
+        {
+            "question": "How do I share my ride details with someone?",
+            "keywords": [ "share", "ride details" ],
+            "answer": "You can share your ride details with someone by using the \"Share Ride\" feature in the app, which sends your trip details and live tracking link."
+        },
+        {
+            "question": "What is the minimum age requirement to use E2Mars?",
+            "keywords": [ "minimum age", "requirement" ],
+            "answer": "The minimum age requirement to use E2Mars is 18 years old. Users must verify their age during the sign-up process."
+        },
+        {
+            "question": "How do I get a refund for a cancelled ride?",
+            "keywords": [ "refund", "cancelled ride" ],
+            "answer": "To get a refund for a cancelled ride, contact E2Mars customer support through the app with your ride details, and the support team will process your refund."
+        },
+        {
+            "question": "How do I update my vehicle information as a driver?",
+            "keywords": [ "update", "vehicle information", "driver" ],
+            "answer": "As a driver, you can update your vehicle information by going to the \"Driver Dashboard\" in the app and selecting \"Update Vehicle Information.\""
+        },
+        {
+            "question": "What should I do if my ride is delayed?",
+            "keywords": [ "ride", "delayed" ],
+            "answer": "If your ride is delayed, you will receive notifications through the app. You can also contact the driver directly to check the status of your ride."
+        },
+        {
+            "question": "Can I book a ride for someone else?",
+            "keywords": [ "book", "ride", "someone else" ],
+            "answer": "Yes, you can book a ride for someone else by entering their pickup and drop-off locations and contact details in the app."
+        },
+        {
+            "question": "What should I do if I feel unsafe during a ride?",
+            "keywords": [ "unsafe", "during ride" ],
+            "answer": "If you feel unsafe during a ride, use the SOS button in the app to alert our emergency support team, and they will assist you immediately."
+        },
+        {
+            "question": "How do I change my password?",
+            "keywords": [ "change", "password" ],
+            "answer": "To change your password, go to the \"Settings\" section in the app, select \"Change Password,\" and follow the instructions to set a new password."
+        },
+        {
+            "question": "Can I use E2Mars for long-distance travel?",
+            "keywords": [ "long-distance", "travel" ],
+            "answer": "Yes, you can use E2Mars for long-distance travel. Enter your pickup and drop-off locations in the app to check availability and fare estimates."
+        },
+        {
+            "question": "How do I provide feedback about the app?",
+            "keywords": [ "provide", "feedback", "app" ],
+            "answer": "You can provide feedback about the app by going to the \"Help & Support\" section and selecting \"Feedback.\" Your feedback helps us improve our services."
+        },
+        {
+            "question": "How can I update my profile picture?",
+            "keywords": [ "update", "profile picture" ],
+            "answer": "To update your profile picture, go to the \"Settings\" section in the app, select \"Edit Profile,\" and upload a new profile picture."
+        },
+        {
+            "question": "What should I do if my driver is not responding?",
+            "keywords": [ "driver", "not responding" ],
+            "answer": "If your driver is not responding, you can contact E2Mars customer support through the app, and they will assist you in resolving the issue."
+        },
+        {
+            "question": "How can I check the status of my ride?",
+            "keywords": [ "check", "status", "ride" ],
+            "answer": "You can check the status of your ride in real-time through the \"Current Rides\" section in the app, where you can see your driver’s location and estimated arrival time."
+        },
+        {
+            "question": "Can I request a specific driver for my ride?",
+            "keywords": [ "request", "specific driver" ],
+            "answer": "Currently, E2Mars does not support requesting specific drivers. Drivers are assigned based on availability and proximity to your location."
+        },
+        {
+            "question": "How do I apply for a refund if I was overcharged?",
+            "keywords": [ "refund", "overcharged" ],
+            "answer": "If you were overcharged, contact E2Mars customer support through the app with your ride details, and the support team will assist you with the refund process."
+        },
+        {
+            "question": "How can I edit my ride details before booking?",
+            "keywords": [ "edit", "ride details", "before booking" ],
+            "answer": "To edit your ride details before booking, go back to the ride booking screen in the app and update your pickup and drop-off locations or ride preferences."
+        },
+        {
+            "question": "What should I do if I encounter an error while booking a ride?",
+            "keywords": [ "error", "booking ride" ],
+            "answer": "If you encounter an error while booking a ride, try restarting the app and booking again. If the issue persists, contact E2Mars customer support for assistance."
+        },
+        {
+            "question": "How do I use the promo code for a discount?",
+            "keywords": [ "use", "promo code", "discount" ],
+            "answer": "To use a promo code for a discount, enter the code in the \"Promotions\" section of the app before confirming your ride booking."
+        },
+        {
+            "question": "How can I check my ride history?",
+            "keywords": [ "check", "ride history" ],
+            "answer": "You can check your ride history by going to the \"History\" section in the app, where all your past rides are listed with details."
+        },
+        {
+            "question": "Can I tip my driver through the app?",
+            "keywords": [ "tip", "driver" ],
+            "answer": "Yes, you can tip your driver through the app after your ride ends. You will be prompted to rate your driver and add a tip if you wish."
+        },
+        {
+            "question": "What are the peak hours for ride fares?",
+            "keywords": [ "peak hours", "ride fares" ],
+            "answer": "Peak hours for ride fares vary by location. Generally, they include morning and evening rush hours. The app will display any surge pricing during peak times."
+        },
+        {
+            "question": "How do I report inappropriate behavior by a driver?",
+            "keywords": [ "report", "inappropriate behavior", "driver" ],
+            "answer": "To report inappropriate behavior by a driver, go to the \"Help & Support\" section in the app, select the relevant ride, and provide details about the incident."
+        },
+        {
+            "question": "What is the cancellation fee for rides?",
+            "keywords": [ "cancellation fee", "rides" ],
+            "answer": "The cancellation fee for rides varies by location and the timing of the cancellation. Check the app for specific details about cancellation fees in your area."
+        },
+        {
+            "question": "Can I change my payment method during a ride?",
+            "keywords": [ "change", "payment method", "during ride" ],
+            "answer": "No, you cannot change your payment method during a ride. Ensure you select your preferred payment method before starting your ride."
+        },
+        {
+            "question": "What is the maximum number of passengers allowed in a ride?",
+            "keywords": [ "maximum", "passengers", "ride" ],
+            "answer": "The maximum number of passengers allowed in a ride depends on the type of vehicle you select. Standard rides typically allow up to 4 passengers."
+        },
+        {
+            "question": "How do I contact customer support for a general inquiry?",
+            "keywords": [ "contact", "customer support", "general inquiry" ],
+            "answer": "For general inquiries, you can contact customer support through the \"Help & Support\" section in the app or call our support hotline."
+        },
+        {
+            "question": "Can I book a ride without an internet connection?",
+            "keywords": [ "book", "ride", "without internet" ],
+            "answer": "No, you need an internet connection to book a ride through the E2Mars app. Ensure you have a stable connection before booking."
+        },
+        {
+            "question": "How do I update my emergency contact information?",
+            "keywords": [ "update", "emergency contact" ],
+            "answer": "To update your emergency contact information, go to the \"Settings\" section in the app and select \"Emergency Contacts.\" Add or edit the contact details as needed."
+        },
+        {
+            "question": "What should I do if I experience a technical issue with the app?",
+            "keywords": [ "technical issue", "app" ],
+            "answer": "If you experience a technical issue with the app, try restarting the app and your device. If the problem persists, contact customer support for assistance."
+        },
+        {
+            "question": "How do I enable location services for the E2Mars app?",
+            "keywords": [ "enable", "location services", "app" ],
+            "answer": "To enable location services for the E2Mars app, go to your device settings, select \"Location Services,\" and ensure they are turned on for the E2Mars app."
+        },
+        {
+            "question": "Can I use E2Mars for airport transfers?",
+            "keywords": [ "use", "airport transfers" ],
+            "answer": "Yes, you can use E2Mars for airport transfers. Enter your pickup or drop-off location as the airport in the app to book your ride."
+        },
+        {
+            "question": "How do I report a lost item?",
+            "keywords": [ "report", "lost item" ],
+            "answer": "To report a lost item, go to the \"Help & Support\" section in the app, select the relevant ride, and provide details about the lost item. Our support team will assist you."
+        },
+        {
+            "question": "What should I do if I have a complaint about my ride?",
+            "keywords": [ "complaint", "ride" ],
+            "answer": "If you have a complaint about your ride, go to the \"Help & Support\" section in the app, select the relevant ride, and provide details about your complaint. Our support team will address your issue."
+        },
+        {
+            "question": "How do I set a favorite location in the app?",
+            "keywords": [ "set", "favorite location" ],
+            "answer": "To set a favorite location, go to the \"Favorites\" section in the app, select \"Add Favorite,\" and enter the address or select it from the map."
+        },
+        {
+            "question": "What are the benefits of joining E2Mars as a driver?",
+            "keywords": [ "benefits", "joining", "driver" ],
+            "answer": "As an E2Mars driver, you can earn money on your schedule, access driver support, and participate in promotions and incentives. Join us to start driving and earning."
+        },
+        {
+            "question": "Can I use E2Mars for corporate travel?",
+            "keywords": [ "use", "corporate travel" ],
+            "answer": "Yes, E2Mars offers corporate travel solutions. Contact our sales team through the app for more information and to set up a corporate account."
+        },
+        {
+            "question": "How do I change my preferred language in the app?",
+            "keywords": [ "change", "preferred language" ],
+            "answer": "To change your preferred language, go to the \"Settings\" section in the app and select \"Language.\" Choose your preferred language from the list."
+        },
+        {
+            "question": "What should I do if my app is not loading properly?",
+            "keywords": [ "app", "not loading" ],
+            "answer": "If the app is not loading properly, try restarting the app and your device. Ensure you have a stable internet connection. If the issue persists, contact customer support."
+        },
+        {
+            "question": "Can I customize my ride preferences?",
+            "keywords": [ "customize", "ride preferences" ],
+            "answer": "Yes, you can customize your ride preferences in the app. Go to the \"Settings\" section and select \"Ride Preferences\" to choose options such as ride type, music, and temperature."
+        },
+        {
+            "question": "How do I turn on push notifications for the app?",
+            "keywords": [ "turn on", "push notifications" ],
+            "answer": "To turn on push notifications, go to the \"Settings\" section in the app, select \"Notifications,\" and enable push notifications for ride updates and promotions."
+        },
+        {
+            "question": "What should I do if I am not satisfied with my ride?",
+            "keywords": [ "not satisfied", "ride" ],
+            "answer": "If you are not satisfied with your ride, provide feedback through the app by rating your driver and leaving a detailed review. Contact customer support if further assistance is needed."
+        },
+        {
+            "question": "How can I check my ride points or rewards?",
+            "keywords": [ "check", "ride points", "rewards" ],
+            "answer": "To check your ride points or rewards, go to the \"Rewards\" section in the app, where you can view your points balance and available rewards."
+        },
+        {
+            "question": "How do I contact the driver after the ride has ended?",
+            "keywords": [ "contact", "driver", "after ride" ],
+            "answer": "To contact the driver after the ride has ended, go to the \"History\" section in the app, select the relevant ride, and use the \"Contact Driver\" option if available."
+        },
+        {
+            "question": "What should I do if I am unable to book a ride?",
+            "keywords": [ "unable", "book ride" ],
+            "answer": "If you are unable to book a ride, ensure you have a stable internet connection and the app is updated to the latest version. If the problem persists, contact customer support for assistance."
+        },
+        {
+            "question": "Can I use E2Mars for group travel?",
+            "keywords": [ "use", "group travel" ],
+            "answer": "Yes, you can use E2Mars for group travel by selecting a larger vehicle option such as an SUV or van during the booking process."
+        },
+        {
+            "question": "How do I change the destination during a ride?",
+            "keywords": [ "change", "destination", "during ride" ],
+            "answer": "To change the destination during a ride, inform your driver and update the destination in the app. The fare will be adjusted accordingly."
+        },
+        {
+            "question": "What should I do if I experience an issue with the app?",
+            "keywords": [ "issue", "app" ],
+            "answer": "If you experience an issue with the app, try restarting it and your device. Ensure you have a stable internet connection. If the problem persists, contact customer support."
+        },
+        {
+            "question": "Can I save multiple payment methods in the app?",
+            "keywords": [ "save", "multiple payment methods" ],
+            "answer": "Yes, you can save multiple payment methods in the app by going to the \"Payment\" section in settings and adding or editing your payment options."
+        },
+        {
+            "question": "How do I get a receipt for my ride?",
+            "keywords": [ "get", "receipt", "ride" ],
+            "answer": "You can get a receipt for your ride by going to the \"History\" section in the app, selecting the relevant ride, and downloading or emailing the receipt."
+        },
+        {
+            "question": "What should I do if my driver takes a longer route?",
+            "keywords": [ "driver", "longer route" ],
+            "answer": "If your driver takes a longer route, you can provide feedback through the app after the ride ends. Contact customer support if you believe you were overcharged."
+        },
+        {
+            "question": "How do I share my location with friends or family during a ride?",
+            "keywords": [ "share", "location", "friends", "family" ],
+            "answer": "You can share your location with friends or family during a ride by using the \"Share Ride\" feature in the app, which sends your trip details and live tracking link."
+        },
+        {
+            "question": "Can I book a ride with a pet?",
+            "keywords": [ "book", "ride", "pet" ],
+            "answer": "Yes, you can book a ride with a pet by selecting the \"Pet-Friendly\" option during the booking process. Additional charges may apply."
+        },
+        {
+            "question": "How do I provide feedback about my driver?",
+            "keywords": [ "provide", "feedback", "driver" ],
+            "answer": "You can provide feedback about your driver after your ride ends by selecting the ride in your trip history and giving a rating and review."
+        },
+        {
+            "question": "What should I do if I am overcharged for a ride?",
+            "keywords": [ "overcharged", "ride" ],
+            "answer": "If you are overcharged for a ride, contact E2Mars customer support through the app with your ride details, and the support team will assist you with the refund process."
+        },
+        {
+            "question": "Can I request a specific vehicle type for my ride?",
+            "keywords": [ "request", "specific vehicle type" ],
+            "answer": "Yes, you can request a specific vehicle type for your ride by selecting your preferred vehicle option during the booking process."
+        },
+        {
+            "question": "How do I set up emergency contacts in the app?",
+            "keywords": [ "set up", "emergency contacts" ],
+            "answer": "To set up emergency contacts in the app, go to the \"Settings\" section and select \"Emergency Contacts.\" Add or edit the contact details as needed."
+        },
+        {
+            "question": "What should I do if my payment method is declined?",
+            "keywords": [ "payment method", "declined" ],
+            "answer": "If your payment method is declined, try using a different payment method or contact your bank for assistance. You can also contact E2Mars customer support for help."
+        },
+        {
+            "question": "Can I use E2Mars for medical transportation?",
+            "keywords": [ "use", "medical transportation" ],
+            "answer": "E2Mars can be used for non-emergency medical transportation. Enter your pickup and drop-off locations in the app to book your ride."
+        },
+        {
+            "question": "How do I view my ride history?",
+            "keywords": [ "view", "ride history" ],
+            "answer": "You can view your ride history by going to the \"History\" section in the app, where all your past rides are listed with details."
+        },
+        {
+            "question": "How do I add a stop during my ride?",
+            "keywords": [ "add", "stop", "during ride" ],
+            "answer": "To add a stop during your ride, inform your driver and update the ride details in the app. The fare will be adjusted accordingly."
+        },
+        {
+            "question": "What should I do if I encounter an issue with my driver?",
+            "keywords": [ "issue", "driver" ],
+            "answer": "If you encounter an issue with your driver, you can report it through the \"Help & Support\" section in the app. Provide details about the issue, and our support team will assist you."
+        },
+        {
+            "question": "How do I update my payment information?",
+            "keywords": [ "update", "payment information" ],
+            "answer": "To update your payment information, go to the \"Payment\" section in the app settings and add or edit your payment methods."
+        },
+        {
+            "question": "What is the cancellation fee for rides?",
+            "keywords": [ "cancellation fee", "rides" ],
+            "answer": "The cancellation fee for rides varies by location and the timing of the cancellation. Check the app for specific details about cancellation fees in your area."
+        },
+        {
+            "question": "Can I change my payment method during a ride?",
+            "keywords": [ "change", "payment method", "during ride" ],
+            "answer": "No, you cannot change your payment method during a ride. Ensure you select your preferred payment method before starting your ride."
+        },
+        {
+            "question": "What is the maximum number of passengers allowed in a ride?",
+            "keywords": [ "maximum", "passengers", "ride" ],
+            "answer": "The maximum number of passengers allowed in a ride depends on the type of vehicle you select. Standard rides typically allow up to 4 passengers."
+        },
+        {
+            "question": "How do I contact customer support for a general inquiry?",
+            "keywords": [ "contact", "customer support", "general inquiry" ],
+            "answer": "For general inquiries, you can contact customer support through the \"Help & Support\" section in the app or call our support hotline."
+        },
+        {
+            "question": "Can I book a ride without an internet connection?",
+            "keywords": [ "book", "ride", "without internet" ],
+            "answer": "No, you need an internet connection to book a ride through the E2Mars app. Ensure you have a stable connection before booking."
+        },
+        {
+            "question": "How do I update my emergency contact information?",
+            "keywords": [ "update", "emergency contact" ],
+            "answer": "To update your emergency contact information, go to the \"Settings\" section in the app and select \"Emergency Contacts.\" Add or edit the contact details as needed."
+        },
+        {
+            "question": "What should I do if I experience a technical issue with the app?",
+            "keywords": [ "technical issue", "app" ],
+            "answer": "If you experience a technical issue with the app, try restarting the app and your device. If the problem persists, contact customer support for assistance."
+        },
+        {
+            "question": "How do I enable location services for the E2Mars app?",
+            "keywords": [ "enable", "location services", "app" ],
+            "answer": "To enable location services for the E2Mars app, go to your device settings, select \"Location Services,\" and ensure they are turned on for the E2Mars app."
+        },
+        {
+            "question": "Can I use E2Mars for airport transfers?",
+            "keywords": [ "use", "airport transfers" ],
+            "answer": "Yes, you can use E2Mars for airport transfers. Enter your pickup or drop-off location as the airport in the app to book your ride."
+        },
+        {
+            "question": "How do I report a lost item?",
+            "keywords": [ "report", "lost item" ],
+            "answer": "To report a lost item, go to the \"Help & Support\" section in the app, select the relevant ride, and provide details about the lost item. Our support team will assist you."
+        },
+        {
+            "question": "What should I do if I have a complaint about my ride?",
+            "keywords": [ "complaint", "ride" ],
+            "answer": "If you have a complaint about your ride, go to the \"Help & Support\" section in the app, select the relevant ride, and provide details about your complaint. Our support team will address your issue."
+        },
+        {
+            "question": "How do I set a favorite location in the app?",
+            "keywords": [ "set", "favorite location" ],
+            "answer": "To set a favorite location, go to the \"Favorites\" section in the app, select \"Add Favorite,\" and enter the address or select it from the map."
+        },
+        {
+            "question": "What are the benefits of joining E2Mars as a driver?",
+            "keywords": [ "benefits", "joining", "driver" ],
+            "answer": "As an E2Mars driver, you can earn money on your schedule, access driver support, and participate in promotions and incentives. Join us to start driving and earning."
+        },
+        {
+            "question": "Can I use E2Mars for corporate travel?",
+            "keywords": [ "use", "corporate travel" ],
+            "answer": "Yes, E2Mars offers corporate travel solutions. Contact our sales team through the app for more information and to set up a corporate account."
+        },
+        {
+            "question": "How do I change my preferred language in the app?",
+            "keywords": [ "change", "preferred language" ],
+            "answer": "To change your preferred language, go to the \"Settings\" section in the app and select \"Language.\" Choose your preferred language from the list."
+        },
+        {
+            "question": "What should I do if my app is not loading properly?",
+            "keywords": [ "app", "not loading" ],
+            "answer": "If the app is not loading properly, try restarting the app and your device. Ensure you have a stable internet connection. If the issue persists, contact customer support."
+        },
+        {
+            "question": "Can I customize my ride preferences?",
+            "keywords": [ "customize", "ride preferences" ],
+            "answer": "Yes, you can customize your ride preferences in the app. Go to the \"Settings\" section and select \"Ride Preferences\" to choose options such as ride type, music, and temperature."
+        },
+        {
+            "question": "How do I turn on push notifications for the app?",
+            "keywords": [ "turn on", "push notifications" ],
+            "answer": "To turn on push notifications, go to the \"Settings\" section in the app, select \"Notifications,\" and enable push notifications for ride updates and promotions."
+        },
+        {
+            "question": "What should I do if I am not satisfied with my ride?",
+            "keywords": [ "not satisfied", "ride" ],
+            "answer": "If you are not satisfied with your ride, provide feedback through the app by rating your driver and leaving a detailed review. Contact customer support if further assistance is needed."
+        },
+        {
+            "question": "How can I check my ride points or rewards?",
+            "keywords": [ "check", "ride points", "rewards" ],
+            "answer": "To check your ride points or rewards, go to the \"Rewards\" section in the app, where you can view your points balance and available rewards."
+        },
+        {
+            "question": "How do I contact the driver after the ride has ended?",
+            "keywords": [ "contact", "driver", "after ride" ],
+            "answer": "To contact the driver after the ride has ended, go to the \"History\" section in the app, select the relevant ride, and use the \"Contact Driver\" option if available."
+        },
+        {
+            "question": "What should I do if I am unable to book a ride?",
+            "keywords": [ "unable", "book ride" ],
+            "answer": "If you are unable to book a ride, ensure you have a stable internet connection and the app is updated to the latest version. If the problem persists, contact customer support for assistance."
+        },
+        {
+            "question": "Can I use E2Mars for group travel?",
+            "keywords": [ "use", "group travel" ],
+            "answer": "Yes, you can use E2Mars for group travel by selecting a larger vehicle option such as an SUV or van during the booking process."
+        },
+        {
+            "question": "How do I change the destination during a ride?",
+            "keywords": [ "change", "destination", "during ride" ],
+            "answer": "To change the destination during a ride, inform your driver and update the destination in the app. The fare will be adjusted accordingly."
+        },
+        {
+            "question": "What should I do if I experience an issue with the app?",
+            "keywords": [ "issue", "app" ],
+            "answer": "If you experience an issue with the app, try restarting it and your device. Ensure you have a stable internet connection. If the problem persists, contact customer support."
+        },
+        {
+            "question": "Can I save multiple payment methods in the app?",
+            "keywords": [ "save", "multiple payment methods" ],
+            "answer": "Yes, you can save multiple payment methods in the app by going to the \"Payment\" section in settings and adding or editing your payment options."
+        },
+        {
+            "question": "How do I get a receipt for my ride?",
+            "keywords": [ "get", "receipt", "ride" ],
+            "answer": "You can get a receipt for your ride by going to the \"History\" section in the app, selecting the relevant ride, and downloading or emailing the receipt."
+        },
+        {
+            "question": "What should I do if my driver takes a longer route?",
+            "keywords": [ "driver", "longer route" ],
+            "answer": "If your driver takes a longer route, you can provide feedback through the app after the ride ends. Contact customer support if you believe you were overcharged."
+        },
+        {
+            "question": "How do I share my location with friends or family during a ride?",
+            "keywords": [ "share", "location", "friends", "family" ],
+            "answer": "You can share your location with friends or family during a ride by using the \"Share Ride\" feature in the app, which sends your trip details and live tracking link."
+        },
+        {
+            "question": "Can I book a ride with a pet?",
+            "keywords": [ "book", "ride", "pet" ],
+            "answer": "Yes, you can book a ride with a pet by selecting the \"Pet-Friendly\" option during the booking process. Additional charges may apply."
+        },
+        {
+            "question": "How do I provide feedback about my driver?",
+            "keywords": [ "provide", "feedback", "driver" ],
+            "answer": "You can provide feedback about your driver after your ride ends by selecting the ride in your trip history and giving a rating and review."
+        },
+        {
+            "question": "What should I do if I am overcharged for a ride?",
+            "keywords": [ "overcharged", "ride" ],
+            "answer": "If you are overcharged for a ride, contact E2Mars customer support through the app with your ride details, and the support team will assist you with the refund process."
+        },
+        {
+            "question": "Can I request a specific vehicle type for my ride?",
+            "keywords": [ "request", "specific vehicle type" ],
+            "answer": "Yes, you can request a specific vehicle type for your ride by selecting your preferred vehicle option during the booking process."
+        },
+        {
+            "question": "How do I set up emergency contacts in the app?",
+            "keywords": [ "set up", "emergency contacts" ],
+            "answer": "To set up emergency contacts in the app, go to the \"Settings\" section and select \"Emergency Contacts.\" Add or edit the contact details as needed."
+        },
+        {
+            "question": "What should I do if my payment method is declined?",
+            "keywords": [ "payment method", "declined", "pending", "picked" ],
+            "answer": "If your payment method is declined, try using a different payment method or contact your bank for assistance. You can also contact E2Mars customer support for help."
+        },
+        {
+            "question": "Can I use E2Mars for medical transportation?",
+            "keywords": [ "use", "medical transportation" ],
+            "answer": "E2Mars can be used for non-emergency medical transportation. Enter your pickup and drop-off locations in the app to book your ride."
+        },
+        {
+            "question": "How do I view my ride history?",
+            "keywords": [ "view", "ride history" ],
+            "answer": "You can view your ride history by going to the \"History\" section in the app, where all your past rides are listed with details."
+        },
+        {
+            "question": "How do I add a stop during my ride?",
+            "keywords": [ "add", "stop", "during ride" ],
+            "answer": "To add a stop during your ride, inform your driver and update the ride details in the app. The fare will be adjusted accordingly."
+        },
+        {
+            "question": "What should I do if I encounter an issue with my driver?",
+            "keywords": [ "issue", "driver" ],
+            "answer": "If you encounter an issue with your driver, you can report it through the \"Help & Support\" section in the app. Provide details about the issue, and our support team will assist you."
+        },
+        {
+            "question": "How do I update my payment information?",
+            "keywords": [ "update", "payment information" ],
+            "answer": "To update your payment information, go to the \"Payment\" section in the app settings and add or edit your payment methods."
+        },
+        {
+            "question": "What is the cancellation fee for rides?",
+            "keywords": [ "cancellation fee", "rides" ],
+            "answer": "The cancellation fee for rides varies by location and the timing of the cancellation. Check the app for specific details about cancellation fees in your area."
+        },
+        {
+            "question": "Can I change my payment method during a ride?",
+            "keywords": [ "change", "payment method", "during ride" ],
+            "answer": "No, you cannot change your payment method during a ride. Ensure you select your preferred payment method before starting your ride."
+        },
+        {
+            "question": "What is the maximum number of passengers allowed in a ride?",
+            "keywords": [ "maximum", "passengers", "ride" ],
+            "answer": "The maximum number of passengers allowed in a ride depends on the type of vehicle you select. Standard rides typically allow up to 4 passengers."
+        },
+        {
+            "question": "Is it possible for the driver to pick me up exactly where I am?",
+            "keywords": [ "driver", "pick me up", "exactly where I am" ],
+            "answer": "Yes, the driver can pick you up exactly where you are. Ensure your location services are enabled and accurate in the app."
+        },
+        {
+            "question": "How do I set my exact pickup location?",
+            "keywords": [ "set", "exact pickup location" ],
+            "answer": "You can set your exact pickup location by dragging the pin on the map to your desired location or by entering the address manually."
+        },
+        {
+            "question": "Can the driver pick me up from OR Tambo International Airport?",
+            "keywords": [ "driver", "pick up", "OR Tambo International Airport" ],
+            "answer": "Yes, the driver can pick you up from OR Tambo International Airport. Enter the terminal and any other relevant details in the app to ensure a smooth pickup."
+        },
+        {
+            "question": "Can the driver pick me up from the V&A Waterfront in Cape Town?",
+            "keywords": [ "driver", "pick up", "V&A Waterfront", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from the V&A Waterfront in Cape Town. Specify the entrance or store nearest to your location in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Nelson Mandela Square in Johannesburg?",
+            "keywords": [ "driver", "pick up", "Nelson Mandela Square", "Johannesburg" ],
+            "answer": "Yes, the driver can pick you up from Nelson Mandela Square in Johannesburg. Enter the address and specify the entrance if necessary."
+        },
+        {
+            "question": "Can the driver pick me up from the Durban ICC?",
+            "keywords": [ "driver", "pick up", "Durban ICC" ],
+            "answer": "Yes, the driver can pick you up from the Durban ICC. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Kirstenbosch Botanical Gardens in Cape Town?",
+            "keywords": [ "driver", "pick up", "Kirstenbosch Botanical Gardens", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from Kirstenbosch Botanical Gardens in Cape Town. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the University of Pretoria?",
+            "keywords": [ "driver", "pick up", "University of Pretoria" ],
+            "answer": "Yes, the driver can pick you up from the University of Pretoria. Enter the name and address of the university in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Gateway Theatre of Shopping in Durban?",
+            "keywords": [ "driver", "pick up", "Gateway Theatre of Shopping", "Durban" ],
+            "answer": "Yes, the driver can pick you up from Gateway Theatre of Shopping in Durban. Specify the entrance or store nearest to your location in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Robben Island Museum in Cape Town?",
+            "keywords": [ "driver", "pick up", "Robben Island Museum", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from Robben Island Museum in Cape Town. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Union Buildings in Pretoria?",
+            "keywords": [ "driver", "pick up", "Union Buildings", "Pretoria" ],
+            "answer": "Yes, the driver can pick you up from the Union Buildings in Pretoria. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Table Mountain Cableway in Cape Town?",
+            "keywords": [ "driver", "pick up", "Table Mountain Cableway", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from Table Mountain Cableway in Cape Town. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Gold Reef City in Johannesburg?",
+            "keywords": [ "driver", "pick up", "Gold Reef City", "Johannesburg" ],
+            "answer": "Yes, the driver can pick you up from Gold Reef City in Johannesburg. Enter the address and specify the entrance if necessary."
+        },
+        {
+            "question": "Can the driver pick me up from the Cradle of Humankind in Maropeng?",
+            "keywords": [ "driver", "pick up", "Cradle of Humankind", "Maropeng" ],
+            "answer": "Yes, the driver can pick you up from the Cradle of Humankind in Maropeng. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Apartheid Museum in Johannesburg?",
+            "keywords": [ "driver", "pick up", "Apartheid Museum", "Johannesburg" ],
+            "answer": "Yes, the driver can pick you up from the Apartheid Museum in Johannesburg. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Cape Town International Convention Centre?",
+            "keywords": [ "driver", "pick up", "Cape Town International Convention Centre" ],
+            "answer": "Yes, the driver can pick you up from the Cape Town International Convention Centre. Enter the address and specify the entrance if necessary."
+        },
+        {
+            "question": "Can the driver pick me up from the Voortrekker Monument in Pretoria?",
+            "keywords": [ "driver", "pick up", "Voortrekker Monument", "Pretoria" ],
+            "answer": "Yes, the driver can pick you up from the Voortrekker Monument in Pretoria. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Two Oceans Aquarium in Cape Town?",
+            "keywords": [ "driver", "pick up", "Two Oceans Aquarium", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from the Two Oceans Aquarium in Cape Town. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Johannesburg Zoo?",
+            "keywords": [ "driver", "pick up", "Johannesburg Zoo" ],
+            "answer": "Yes, the driver can pick you up from the Johannesburg Zoo. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Moses Mabhida Stadium in Durban?",
+            "keywords": [ "driver", "pick up", "Moses Mabhida Stadium", "Durban" ],
+            "answer": "Yes, the driver can pick you up from the Moses Mabhida Stadium in Durban. Enter the address and specify the entrance if necessary."
+        },
+        {
+            "question": "Can the driver pick me up from Sandton City Mall in Johannesburg?",
+            "keywords": [ "driver", "pick up", "Sandton City Mall", "Johannesburg" ],
+            "answer": "Yes, the driver can pick you up from Sandton City Mall in Johannesburg. Specify the entrance or store nearest to your location in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Stellenbosch University?",
+            "keywords": [ "driver", "pick up", "Stellenbosch University" ],
+            "answer": "Yes, the driver can pick you up from Stellenbosch University. Enter the name and address of the university in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Johannesburg Botanical Garden?",
+            "keywords": [ "driver", "pick up", "Johannesburg Botanical Garden" ],
+            "answer": "Yes, the driver can pick you up from the Johannesburg Botanical Garden. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Castle of Good Hope in Cape Town?",
+            "keywords": [ "driver", "pick up", "Castle of Good Hope", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from the Castle of Good Hope in Cape Town. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from uShaka Marine World in Durban?",
+            "keywords": [ "driver", "pick up", "uShaka Marine World", "Durban" ],
+            "answer": "Yes, the driver can pick you up from uShaka Marine World in Durban. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the District Six Museum in Cape Town?",
+            "keywords": [ "driver", "pick up", "District Six Museum", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from the District Six Museum in Cape Town. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Menlyn Park Shopping Centre in Pretoria?",
+            "keywords": [ "driver", "pick up", "Menlyn Park Shopping Centre", "Pretoria" ],
+            "answer": "Yes, the driver can pick you up from Menlyn Park Shopping Centre in Pretoria. Specify the entrance or store nearest to your location in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Clifton Beach in Cape Town?",
+            "keywords": [ "driver", "pick up", "Clifton Beach", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from Clifton Beach in Cape Town. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Apartheid Museum in Johannesburg?",
+            "keywords": [ "driver", "pick up", "Apartheid Museum", "Johannesburg" ],
+            "answer": "Yes, the driver can pick you up from the Apartheid Museum in Johannesburg. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Nelson Mandela Capture Site in Howick?",
+            "keywords": [ "driver", "pick up", "Nelson Mandela Capture Site", "Howick" ],
+            "answer": "Yes, the driver can pick you up from the Nelson Mandela Capture Site in Howick. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Green Point Urban Park in Cape Town?",
+            "keywords": [ "driver", "pick up", "Green Point Urban Park", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from the Green Point Urban Park in Cape Town. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Victoria Street Market in Durban?",
+            "keywords": [ "driver", "pick up", "Victoria Street Market", "Durban" ],
+            "answer": "Yes, the driver can pick you up from the Victoria Street Market in Durban. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Eastgate Shopping Centre in Johannesburg?",
+            "keywords": [ "driver", "pick up", "Eastgate Shopping Centre", "Johannesburg" ],
+            "answer": "Yes, the driver can pick you up from Eastgate Shopping Centre in Johannesburg. Specify the entrance or store nearest to your location in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the South African National Museum of Military History in Johannesburg?",
+            "keywords": [ "driver", "pick up", "South African National Museum of Military History", "Johannesburg" ],
+            "answer": "Yes, the driver can pick you up from the South African National Museum of Military History in Johannesburg. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Canal Walk Shopping Centre in Cape Town?",
+            "keywords": [ "driver", "pick up", "Canal Walk Shopping Centre", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from Canal Walk Shopping Centre in Cape Town. Specify the entrance or store nearest to your location in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Pretoria National Botanical Garden?",
+            "keywords": [ "driver", "pick up", "Pretoria National Botanical Garden" ],
+            "answer": "Yes, the driver can pick you up from the Pretoria National Botanical Garden. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Long Street in Cape Town?",
+            "keywords": [ "driver", "pick up", "Long Street", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from Long Street in Cape Town. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Hector Pieterson Museum in Soweto?",
+            "keywords": [ "driver", "pick up", "Hector Pieterson Museum", "Soweto" ],
+            "answer": "Yes, the driver can pick you up from the Hector Pieterson Museum in Soweto. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Rhodes Memorial in Cape Town?",
+            "keywords": [ "driver", "pick up", "Rhodes Memorial", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from the Rhodes Memorial in Cape Town. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Big Hole in Kimberley?",
+            "keywords": [ "driver", "pick up", "Big Hole", "Kimberley" ],
+            "answer": "Yes, the driver can pick you up from the Big Hole in Kimberley. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Knysna Waterfront?",
+            "keywords": [ "driver", "pick up", "Knysna Waterfront" ],
+            "answer": "Yes, the driver can pick you up from the Knysna Waterfront. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Durban Botanic Gardens?",
+            "keywords": [ "driver", "pick up", "Durban Botanic Gardens" ],
+            "answer": "Yes, the driver can pick you up from the Durban Botanic Gardens. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from Addo Elephant National Park?",
+            "keywords": [ "driver", "pick up", "Addo Elephant National Park" ],
+            "answer": "Yes, the driver can pick you up from Addo Elephant National Park. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Kruger National Park?",
+            "keywords": [ "driver", "pick up", "Kruger National Park" ],
+            "answer": "Yes, the driver can pick you up from the Kruger National Park. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Union Buildings in Pretoria?",
+            "keywords": [ "driver", "pick up", "Union Buildings", "Pretoria" ],
+            "answer": "Yes, the driver can pick you up from the Union Buildings in Pretoria. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Johannesburg Art Gallery?",
+            "keywords": [ "driver", "pick up", "Johannesburg Art Gallery" ],
+            "answer": "Yes, the driver can pick you up from the Johannesburg Art Gallery. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Montecasino in Johannesburg?",
+            "keywords": [ "driver", "pick up", "Montecasino", "Johannesburg" ],
+            "answer": "Yes, the driver can pick you up from the Montecasino in Johannesburg. Specify the entrance or store nearest to your location in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the National Zoological Gardens of South Africa in Pretoria?",
+            "keywords": [ "driver", "pick up", "National Zoological Gardens of South Africa", "Pretoria" ],
+            "answer": "Yes, the driver can pick you up from the National Zoological Gardens of South Africa in Pretoria. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Union Buildings in Pretoria?",
+            "keywords": [ "driver", "pick up", "Union Buildings", "Pretoria" ],
+            "answer": "Yes, the driver can pick you up from the Union Buildings in Pretoria. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Iziko South African Museum in Cape Town?",
+            "keywords": [ "driver", "pick up", "Iziko South African Museum", "Cape Town" ],
+            "answer": "Yes, the driver can pick you up from the Iziko South African Museum in Cape Town. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Pretoria Art Museum?",
+            "keywords": [ "driver", "pick up", "Pretoria Art Museum" ],
+            "answer": "Yes, the driver can pick you up from the Pretoria Art Museum. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Drakensberg Mountains?",
+            "keywords": [ "driver", "pick up", "Drakensberg Mountains" ],
+            "answer": "Yes, the driver can pick you up from the Drakensberg Mountains. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Valley of Desolation in Graaff-Reinet?",
+            "keywords": [ "driver", "pick up", "Valley of Desolation", "Graaff-Reinet" ],
+            "answer": "Yes, the driver can pick you up from the Valley of Desolation in Graaff-Reinet. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Garden Route National Park?",
+            "keywords": [ "driver", "pick up", "Garden Route National Park" ],
+            "answer": "Yes, the driver can pick you up from the Garden Route National Park. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from the Pilanesberg National Park?",
+            "keywords": [ "driver", "pick up", "Pilanesberg National Park" ],
+            "answer": "Yes, the driver can pick you up from the Pilanesberg National Park. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "What if my pickup location is difficult to find?",
+            "keywords": [ "pickup location", "difficult to find" ],
+            "answer": "If your pickup location is difficult to find, you can provide additional instructions or landmarks in the app to help the driver locate you."
+        },
+        {
+            "question": "Can I choose a specific pickup point if my exact location is not available?",
+            "keywords": [ "choose", "specific pickup point" ],
+            "answer": "Yes, you can choose a nearby pickup point if your exact location is not available or difficult to reach."
+        },
+        {
+            "question": "How do I ensure the driver picks me up from the right spot?",
+            "keywords": [ "ensure", "driver picks up", "right spot" ],
+            "answer": "Double-check the address and location pin in the app before confirming your ride to ensure the driver picks you up from the right spot."
+        },
+        {
+            "question": "Can the driver pick me up from a specific building or entrance?",
+            "keywords": [ "driver", "pick up", "specific building", "entrance" ],
+            "answer": "Yes, you can specify a particular building or entrance in the app when setting your pickup location."
+        },
+        {
+            "question": "What if I need to change my pickup location after booking?",
+            "keywords": [ "change", "pickup location", "after booking" ],
+            "answer": "If you need to change your pickup location after booking, you can update it in the app or contact the driver directly to inform them of the new location."
+        },
+        {
+            "question": "Can I schedule a pickup for a future date and time?",
+            "keywords": [ "schedule", "pickup", "future date", "time" ],
+            "answer": "Yes, you can schedule a pickup for a future date and time by selecting the \"Schedule a Ride\" option in the app."
+        },
+        {
+            "question": "What should I do if the driver cannot find my pickup location?",
+            "keywords": [ "driver", "cannot find", "pickup location" ],
+            "answer": "If the driver cannot find your pickup location, you can contact them through the app to provide additional directions or landmarks."
+        },
+        {
+            "question": "Can the driver pick me up from my home?",
+            "keywords": [ "driver", "pick up", "home" ],
+            "answer": "Yes, the driver can pick you up from your home. Make sure to enter your home address accurately in the app."
+        },
+        {
+            "question": "Can the driver pick me up from my office?",
+            "keywords": [ "driver", "pick up", "office" ],
+            "answer": "Yes, the driver can pick you up from your office. Enter your office address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a restaurant or café?",
+            "keywords": [ "driver", "pick up", "restaurant", "café" ],
+            "answer": "Yes, the driver can pick you up from a restaurant or café. Enter the address of the restaurant or café in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a shopping mall?",
+            "keywords": [ "driver", "pick up", "shopping mall" ],
+            "answer": "Yes, the driver can pick you up from a shopping mall. Specify the entrance or store nearest to your location in the app."
+        },
+        {
+            "question": "Can the driver pick me up from an airport?",
+            "keywords": [ "driver", "pick up", "airport" ],
+            "answer": "Yes, the driver can pick you up from an airport. Enter the terminal and any other relevant details in the app to ensure a smooth pickup."
+        },
+        {
+            "question": "Can the driver pick me up from a hotel?",
+            "keywords": [ "driver", "pick up", "hotel" ],
+            "answer": "Yes, the driver can pick you up from a hotel. Enter the hotel name and address in the app, and specify the entrance if necessary."
+        },
+        {
+            "question": "Can the driver pick me up from a park or recreational area?",
+            "keywords": [ "driver", "pick up", "park", "recreational area" ],
+            "answer": "Yes, the driver can pick you up from a park or recreational area. Provide the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a hospital or medical facility?",
+            "keywords": [ "driver", "pick up", "hospital", "medical facility" ],
+            "answer": "Yes, the driver can pick you up from a hospital or medical facility. Enter the hospital or facility address in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a friend’s house?",
+            "keywords": [ "driver", "pick up", "friend’s house" ],
+            "answer": "Yes, the driver can pick you up from a friend’s house. Enter the address of your friend’s house in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a school or university?",
+            "keywords": [ "driver", "pick up", "school", "university" ],
+            "answer": "Yes, the driver can pick you up from a school or university. Enter the name and address of the school or university in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a train station?",
+            "keywords": [ "driver", "pick up", "train station" ],
+            "answer": "Yes, the driver can pick you up from a train station. Enter the station name and specify the platform or entrance if needed."
+        },
+        {
+            "question": "Can the driver pick me up from a bus station?",
+            "keywords": [ "driver", "pick up", "bus station" ],
+            "answer": "Yes, the driver can pick you up from a bus station. Enter the station name and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a concert or event venue?",
+            "keywords": [ "driver", "pick up", "concert", "event venue" ],
+            "answer": "Yes, the driver can pick you up from a concert or event venue. Provide the venue address and any relevant details in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a beach or coastal area?",
+            "keywords": [ "driver", "pick up", "beach", "coastal area" ],
+            "answer": "Yes, the driver can pick you up from a beach or coastal area. Enter the exact location or nearest landmark in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a remote location?",
+            "keywords": [ "driver", "pick up", "remote location" ],
+            "answer": "Yes, the driver can pick you up from a remote location, but availability may vary. Ensure you provide detailed directions or landmarks in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a gas station?",
+            "keywords": [ "driver", "pick up", "gas station" ],
+            "answer": "Yes, the driver can pick you up from a gas station. Enter the address of the gas station in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a sports facility or gym?",
+            "keywords": [ "driver", "pick up", "sports facility", "gym" ],
+            "answer": "Yes, the driver can pick you up from a sports facility or gym. Enter the address and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a library or community center?",
+            "keywords": [ "driver", "pick up", "library", "community center" ],
+            "answer": "Yes, the driver can pick you up from a library or community center. Enter the address in the app and specify the entrance if necessary."
+        },
+        {
+            "question": "Can the driver pick me up from a tourist attraction or landmark?",
+            "keywords": [ "driver", "pick up", "tourist attraction", "landmark" ],
+            "answer": "Yes, the driver can pick you up from a tourist attraction or landmark. Provide the exact location or nearest entrance in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a ferry terminal?",
+            "answer": "Yes, the driver can pick you up from a ferry terminal. Enter the terminal name and any specific pickup instructions in the app."
+        },
+        {
+            "question": "Can the driver pick me up from a farm or rural area?",
+            "answer": "Yes, the driver can pick you up from a farm or rural area. Ensure you provide detailed directions or landmarks in the app."
+        }
+]
